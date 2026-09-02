@@ -640,11 +640,7 @@
       "stages": {
         "bootstrap": {
           "status": "pass",
-          "oci_ref": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/pagerduty-backstage-plugin-backend:bs_1.49.4__0.12.0",
-          "bs_version_mismatch": true,
-          "reason": "Backstage version mismatch",
-          "expected_version": "1.54.4",
-          "found_version": "1.49.4"
+          "oci_ref": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/pagerduty-backstage-plugin-backend:bs_1.54.4__0.14.0"
         },
         "registry-enrich": {
           "status": "pass",
@@ -658,11 +654,11 @@
         },
         "image-metadata-fetch": {
           "status": "pass",
-          "digest": "sha256:c2d665dd21a464d6490f2c4249fcadf6f2f76fc555a71447f12c7527d4881609"
+          "digest": "sha256:f95b10bcaf337687a0f41f481e8cb76550b46a35a1966239d96557c45de30bf2"
         }
       },
       "package": "@pagerduty/backstage-plugin-backend",
-      "version": "0.12.0",
+      "version": "0.14.0",
       "workspace": "pagerduty",
       "overall": "pass"
     },
@@ -670,11 +666,7 @@
       "stages": {
         "bootstrap": {
           "status": "pass",
-          "oci_ref": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/pagerduty-backstage-plugin:bs_1.49.4__0.19.0",
-          "bs_version_mismatch": true,
-          "reason": "Backstage version mismatch",
-          "expected_version": "1.54.4",
-          "found_version": "1.49.4"
+          "oci_ref": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/pagerduty-backstage-plugin:bs_1.54.4__0.21.0"
         },
         "registry-enrich": {
           "status": "pass",
@@ -688,11 +680,11 @@
         },
         "image-metadata-fetch": {
           "status": "pass",
-          "digest": "sha256:e51a490f55d08b1ef6fb5d6655757241014f12aaca1fa2dcf643a842ce307c6d"
+          "digest": "sha256:51b9a39658f24fd75789d5010c1ebe80a857d1e6910131413b1195449ec5ec21"
         }
       },
       "package": "@pagerduty/backstage-plugin",
-      "version": "0.19.0",
+      "version": "0.21.0",
       "workspace": "pagerduty",
       "overall": "pass"
     },

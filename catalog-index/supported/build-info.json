@@ -1,6 +1,6 @@
 {
-  "source-repo": "https://github.com/AdamBrez/rhdh-plugin-export-overlays/tree/main @ 6950f3d4",
-  "build-date": "2026-08-27T12:19:53Z",
+  "source-repo": "https://github.com/AdamBrez/rhdh-plugin-export-overlays/tree/main @ 8c037830",
+  "build-date": "2026-09-02T14:58:25Z",
   "backstage-version": "1.54.4",
   "rhdh-version": "2.0"
 }
